@@ -1,5 +1,10 @@
 <?php
 
+/**
+ * @param array $arr
+ *
+ * @return void
+ */
 function miniMaxSum(array $arr)
 {
     sort($arr);

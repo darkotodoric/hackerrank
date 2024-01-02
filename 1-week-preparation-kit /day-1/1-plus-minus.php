@@ -1,5 +1,10 @@
 <?php
 
+/**
+ * @param array $arr
+ *
+ * @return void
+ */
 function plusMinus(array $arr)
 {
     $total = count($arr);

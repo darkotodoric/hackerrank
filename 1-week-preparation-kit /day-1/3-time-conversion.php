@@ -1,5 +1,10 @@
 <?php
 
+/**
+ * @param string $s
+ *
+ * @return string
+ */
 function timeConversion(string $s): string
 {
     $timestamp = strtotime($s);
