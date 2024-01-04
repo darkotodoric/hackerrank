@@ -1,0 +1,3 @@
+https://www.hackerrank.com/challenges/excluding-specific-characters/problem
+
+/^[^\d][^aeiou][^bcDF][^\r\n\t\f\s][^AEIOU][^\.\,]$/
