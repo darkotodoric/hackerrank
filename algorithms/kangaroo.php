@@ -1,6 +1,8 @@
 <?php
 
 /**
+ * https://www.hackerrank.com/challenges/kangaroo/problem
+ *
  * @param int $x1
  * @param int $v1
  * @param int $x2

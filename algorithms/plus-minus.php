@@ -1,6 +1,8 @@
 <?php
 
 /**
+ * https://www.hackerrank.com/challenges/plus-minus/problem
+ *
  * @param array $arr
  *
  * @return void

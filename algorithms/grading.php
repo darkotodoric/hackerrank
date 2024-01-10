@@ -1,6 +1,8 @@
 <?php
 
 /**
+ * https://www.hackerrank.com/challenges/grading/problem
+ *
  * @param array $grades
  *
  * @return array

@@ -1,6 +1,8 @@
 <?php
 
 /**
+ * https://www.hackerrank.com/challenges/utopian-tree/problem
+ *
  * @param int $n
  *
  * @return int

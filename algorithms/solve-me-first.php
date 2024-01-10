@@ -1,6 +1,8 @@
 <?php
 
 /**
+ * https://www.hackerrank.com/challenges/solve-me-first/problem
+ *
  * @param int $a
  * @param int $b
  *

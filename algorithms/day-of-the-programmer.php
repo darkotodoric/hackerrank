@@ -1,6 +1,13 @@
 <?php
 
-function dayOfProgrammer($year)
+/**
+ * https://www.hackerrank.com/challenges/day-of-the-programmer/problem
+ *
+ * @param int $year
+ *
+ * @return string
+ */
+function dayOfProgrammer(int $year): string
 {
     $pgDay = 256;
     $days = 243;

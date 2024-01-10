@@ -1,6 +1,8 @@
 <?php
 
 /**
+ * https://www.hackerrank.com/challenges/picking-numbers/problem
+ *
  * @param array $a
  *
  * @return int

@@ -1,6 +1,8 @@
 <?php
 
 /**
+ * https://www.hackerrank.com/challenges/bon-appetit/problem
+ *
  * @param array $bill
  * @param int $k
  * @param int $b

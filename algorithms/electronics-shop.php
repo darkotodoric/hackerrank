@@ -1,6 +1,8 @@
 <?php
 
 /**
+ * https://www.hackerrank.com/challenges/electronics-shop/problem
+ *
  * @param array $keyboards
  * @param array $drives
  * @param int $b

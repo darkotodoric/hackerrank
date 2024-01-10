@@ -1,6 +1,8 @@
 <?php
 
 /**
+ * https://www.hackerrank.com/challenges/compare-the-triplets/problem
+ *
  * @param array $a
  * @param array $b
  *

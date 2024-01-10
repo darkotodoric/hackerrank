@@ -1,6 +1,8 @@
 <?php
 
 /**
+ * https://www.hackerrank.com/challenges/breaking-best-and-worst-records/problem
+ *
  * @param array $scores
  *
  * @return array

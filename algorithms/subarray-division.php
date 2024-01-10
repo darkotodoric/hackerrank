@@ -1,6 +1,8 @@
 <?php
 
 /**
+ * https://www.hackerrank.com/challenges/the-birthday-bar/problem
+ *
  * @param array $s
  * @param int $d
  * @param int $m

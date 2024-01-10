@@ -1,6 +1,8 @@
 <?php
 
 /**
+ * https://www.hackerrank.com/challenges/diagonal-difference/problem
+ *
  * @param array $arr
  *
  * @return int

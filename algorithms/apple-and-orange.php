@@ -1,6 +1,8 @@
 <?php
 
 /**
+ * https://www.hackerrank.com/challenges/apple-and-orange/problem
+ *
  * @param int $s
  * @param int $t
  * @param int $a

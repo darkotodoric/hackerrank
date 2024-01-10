@@ -1,6 +1,8 @@
 <?php
 
 /**
+ * https://www.hackerrank.com/challenges/a-very-big-sum/problem
+ *
  * @param array $ar
  *
  * @return int

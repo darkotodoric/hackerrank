@@ -1,6 +1,8 @@
 <?php
 
 /**
+ * https://www.hackerrank.com/challenges/arrays-ds/problem
+ *
  * @param array $a
  *
  * @return array

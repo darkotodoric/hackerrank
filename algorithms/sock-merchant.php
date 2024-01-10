@@ -1,6 +1,8 @@
 <?php
 
 /**
+ * https://www.hackerrank.com/challenges/sock-merchant/problem
+ *
  * @param int $n
  * @param array $ar
  *

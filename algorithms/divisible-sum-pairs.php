@@ -1,6 +1,8 @@
 <?php
 
 /**
+ * https://www.hackerrank.com/challenges/divisible-sum-pairs/problem
+ *
  * @param int $n
  * @param int $k
  * @param array $ar

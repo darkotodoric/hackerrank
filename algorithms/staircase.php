@@ -1,6 +1,8 @@
 <?php
 
 /**
+ * https://www.hackerrank.com/challenges/staircase/problem
+ *
  * @param int $n
  *
  * @return void

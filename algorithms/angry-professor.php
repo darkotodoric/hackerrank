@@ -1,6 +1,8 @@
 <?php
 
 /**
+ * https://www.hackerrank.com/challenges/angry-professor/problem
+ *
  * @param int $k
  * @param array $a
  *

@@ -1,5 +1,13 @@
 <?php
 
+/**
+ * https://www.hackerrank.com/challenges/between-two-sets/problem
+ *
+ * @param array $a
+ * @param array $b
+ *
+ * @return int
+ */
 function getTotalX(array $a, array $b): int
 {
     $fun2 = calcForArray($a, 'fun2');
@@ -20,7 +28,7 @@ function fun1(int $a, int $b): int
     if ($b == 0) {
         return $a;
     }
-    
+
     return fun1($b, $a % $b);
 }
 
