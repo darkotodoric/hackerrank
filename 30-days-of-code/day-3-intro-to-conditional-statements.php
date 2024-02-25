@@ -1,8 +1,6 @@
 <?php
 
-/**
- * https://www.hackerrank.com/challenges/30-conditional-statements/problem
- */
+// https://www.hackerrank.com/challenges/30-conditional-statements/problem
 
 $N = intval(trim(fgets(STDIN)));
 
