@@ -6,8 +6,10 @@
  * @param int $meal_cost
  * @param int $tip_percent
  * @param int $tax_percent
+ *
+ * @return void
  */
-function solve($meal_cost, $tip_percent, $tax_percent)
+function solve(int $meal_cost, int $tip_percent, int $tax_percent)
 {
     // Calculate tip
     $tip = $meal_cost * ($tip_percent / 100);

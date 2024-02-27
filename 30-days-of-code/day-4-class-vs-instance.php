@@ -4,9 +4,13 @@
 
 class Person
 {
+    /** @var int */
     public $age;
 
-    public function __construct($initialAge)
+    /**
+     * @param int $initialAge
+     */
+    public function __construct(int $initialAge)
     {
         if ($initialAge < 0) {
             $this->age = 0;
@@ -16,6 +20,9 @@ class Person
         }
     }
 
+    /**
+     * @return void
+     */
     public function amIOld()
     {
         if ($this->age < 13) {
@@ -27,6 +34,9 @@ class Person
         }
     }
 
+    /**
+     * @return void
+     */
     public function yearPasses()
     {
         $this->age++;
@@ -36,11 +46,14 @@ class Person
 $T = intval(fgets(STDIN));
 for ($i = 0; $i < $T; $i++) {
     $age = intval(fgets(STDIN));
+
     $p = new Person($age);
     $p->amIOld();
+
     for ($j = 0; $j < 3; $j++) {
         $p->yearPasses();
     }
+
     $p->amIOld();
     echo "\n";
 
