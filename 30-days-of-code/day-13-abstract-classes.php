@@ -4,10 +4,16 @@
 
 abstract class Book
 {
-
+    /** @var string */
     protected $title;
+
+    /** @var string */
     protected $author;
 
+    /**
+     * @param string $t
+     * @param string $a
+     */
     function __construct($t, $a)
     {
         $this->title = $t;
